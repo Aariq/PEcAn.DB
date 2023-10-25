@@ -1,0 +1,8 @@
+try.sqlite
+inst/import-try/data-proc
+.Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+.quarto
