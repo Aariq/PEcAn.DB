@@ -91,3 +91,5 @@ LazyLoad: yes
 LazyData: FALSE
 Encoding: UTF-8
 RoxygenNote: 7.2.3
+URL: https://github.com/Aariq/PEcAn.DB
+BugReports: https://github.com/Aariq/PEcAn.DB/issues
