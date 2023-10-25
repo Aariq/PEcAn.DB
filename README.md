@@ -5,7 +5,7 @@
 
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![PEcAn.DB status badge](https://pecanproject.r-universe.dev/badges/PEcAn.DB)](https://pecanproject.r-universe.dev/PEcAn.DB)
-
+[![R-CMD-check](https://github.com/Aariq/PEcAn.DB/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Aariq/PEcAn.DB/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 PEcAn Functions Used for Ecological Forecasts and Reanalysis
